@@ -1,0 +1,10 @@
+nibabel
+numpy
+scipy
+scikit-image
+pandas
+scikit-learn
+matplotlib
+tensorflow==2.15.0
+h5py
+seaborn
