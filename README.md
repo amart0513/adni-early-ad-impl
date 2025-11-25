@@ -7,7 +7,7 @@ This repository implements a full Alzheimer’s classification pipeline using:
 - **3D Convolutional Neural Network (3D-CNN)** trained on full volumetric MRI  
 - **BrainWeb synthetic atrophy** for robustness testing  
 - **Grad-CAM interpretability** for CN, MCI, and AD  
-- **ROC, AUC, confusion matrices, and metrics matching the project report**
+- **ROC, AUC, confusion matrices, and metrics**
 
 Due to computational limits, the **3D CNN was trained in Google Colab with GPU acceleration**.  
 All other components (SVM, preprocessing, robustness tests, Grad-CAM overlays) run locally.
